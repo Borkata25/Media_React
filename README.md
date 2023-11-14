@@ -4,7 +4,33 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: Run before starting :
+`npm install classnames`,
+`npm install react-redux`,
+`npm install @faker-js/faker`,
+`npm install @reduxjs/toolkit`,
+`npm install axios`,
+`npm install json-server `
+For adding Tailwind: 
+1. `npm install -D tailwindcss`,
+   `npx tailwindcss init`,
+2. Add the paths to all of your template files in your tailwind.config.js file:
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+3. Add the Tailwind directives to your CSS
+Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file:
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 
 ### `npm start`
 
