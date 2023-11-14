@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "name": "Marion Swaniawski",
+      "id": 2
+    },
+    {
+      "name": "Anita Sauer",
+      "id": 3
+    },
+    {
+      "name": "Eugene Collier",
+      "id": 4
+    },
+    {
+      "name": "Dr. Alexander Wunsch",
+      "id": 5
+    },
+    {
+      "name": "Carroll Hamill-Bins",
+      "id": 6
+    },
+    {
+      "name": "Misty O'Keefe",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Small Metal Mouse",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Plastic Keyboard",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Granite Shirt",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Granite Towels",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "title": "Modern Metal Shoes",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "title": "Awesome Cotton Cheese",
+      "id": 7
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6332461571112960",
+      "id": 7
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/640/480?lock=447303166984192",
+      "id": 12
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/640/480?lock=5891554547859456",
+      "id": 14
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/640/480?lock=236886503194624",
+      "id": 16
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/5dJQe/640/480",
+      "id": 17
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=7776848784130048",
+      "id": 18
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=4836130165882880",
+      "id": 19
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/K1C7Jz/640/480",
+      "id": 21
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=1897403401633792",
+      "id": 23
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/640/480?lock=404490870063104",
+      "id": 24
+    },
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/c3WyVSRc/640/480",
+      "id": 25
+    },
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/dmQS9/640/480",
+      "id": 26
+    }
+  ]
+}
